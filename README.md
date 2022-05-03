@@ -45,10 +45,10 @@ THEN I exit the application, and the HTML is generated
 ## Screenshot
 This is a screenshot of the generated HTML webpage.
 
-![Team Generator HTML Webpage Screenshot](./assets/Team-Profile-Generator_Screenshot.png)
+![Team Generator HTML Webpage Screenshot](./assets/Team-Profile-Generator_Screenshot.jpeg)
 
 ## Walkthrough Video
-![Team Generator Walkthrough Video](./assets/https://www.youtube.com/watch?v=zwlIN4UrbHM)
+![Team Generator Walkthrough Video](https://www.youtube.com/watch?v=zwlIN4UrbHM)
 ## Credits
 - Bootstrap: https://getbootstrap.com/
 - NodeJS: https://nodejs.org/en/
